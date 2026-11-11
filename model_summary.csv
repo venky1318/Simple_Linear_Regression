@@ -1,0 +1,12 @@
+Metric,Value
+Total Dataset Records,20
+Training Records,16
+Testing Records,4
+Input Feature,years_experience
+Target Variable,annual_salary_inr
+Regression Coefficient,40040.72
+Model Intercept,265184.74
+Mean Absolute Error,5561.38
+Mean Squared Error,31029545.81
+Root Mean Squared Error,5570.42
+R-Squared Score,0.9997
